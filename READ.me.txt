@@ -1,0 +1,4 @@
+Pour le lancer il vous faudra python avec les modules Flask; sqlite3
+pour les installer rendez vous dasn votre invite de commande et rentré la commande suivante: py -m pip install Flask
+Puis lancer le fichier main et cliquez sur le lien donné, vous serez alors redirigé avec notre site internet. 
+Il vous restera plus qu'a vous enrengistrer comme un site lambda
